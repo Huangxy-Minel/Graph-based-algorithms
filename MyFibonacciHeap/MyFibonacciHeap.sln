@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MyFibonacciHeap", "MyFibonacciHeap\MyFibonacciHeap.pyproj", "{1032415D-C2F6-45BE-9617-5E2EA7C8D082}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1032415D-C2F6-45BE-9617-5E2EA7C8D082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1032415D-C2F6-45BE-9617-5E2EA7C8D082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0644E9CC-3D3E-4CC6-A5BD-CACDFF84B2EC}
+	EndGlobalSection
+EndGlobal
